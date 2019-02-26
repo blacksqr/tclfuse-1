@@ -1,0 +1,12 @@
+How to get fuse running:
+
+1) get the fuse 2.2 source from http://fuse.sf.net/ and install according to its INSTALL file
+
+2) make a mountpoint - the example reflect file system uses /mnt/fuse
+
+3) fusermount -u /mnt/fuse (just in case you have another running :)
+
+4) tclsh reflect.tcl
+
+You should then be able to interact with /mnt/fuse as a directory of files.
+

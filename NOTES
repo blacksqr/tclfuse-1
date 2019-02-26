@@ -1,0 +1,4 @@
+A linux fuse interface for tcl.
+
+Fuse is a userland virtual file system kernel module which communicates via a protocol over a file descriptor to provide a file system emulation.
+

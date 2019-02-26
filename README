@@ -1,0 +1,7 @@
+Fuse is an interface to the linux fuse User File System interface.
+
+Fuse linux kernel module can be found here: http://fuse.sf.net/
+
+This code has been tested on linux 2.6 kernel with fuse 2.2.
+
+See INSTALL for information on how to get this puppy going.
